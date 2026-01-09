@@ -17,6 +17,7 @@ Settings > Plugins 탭에 들어간다.
 
 
 ![selectJar](./assets/selectJar.png)
+
 생성된 jar 파일 선택 후, IDE 재시작
 
 
